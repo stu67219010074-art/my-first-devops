@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run a greeting message
-      run: echo "Hello DevOps! ระบบCIเริ่มทำงานเรียบร้อยแล้ว"
+        run: echo "Hello DevOps! ระบบCIเริ่มทำงานเรียบร้อยแล้ว"
