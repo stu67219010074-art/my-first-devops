@@ -1,1 +1,8 @@
-
+team:
+  name: IT-Partner
+  level: 1
+members:
+  - role: Developer
+    name: ณัฐชนน คิดเสาร์ชุ่ม
+  - role: Operations
+    name: ศิริดารา บุญเพิ่มพูล
