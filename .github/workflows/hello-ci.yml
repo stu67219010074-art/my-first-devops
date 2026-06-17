@@ -1,1 +1,8 @@
-
+name: My First CI Robot
+on: [push]
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a greeting message
+      run: echo "Hello DevOps! ระบบCIเริ่มทำงานเรียบร้อยแล้ว"
